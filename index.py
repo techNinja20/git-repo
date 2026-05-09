@@ -1,5 +1,7 @@
-food = "Rice"
-price = 500
+name = "Olawale"
+age = 20
 
-print("food",food)
-print("price",price)
+
+def myName():
+    print("My name is", name)
+    print("I am",age,"year(s) old")
